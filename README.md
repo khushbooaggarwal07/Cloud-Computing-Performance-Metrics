@@ -1,6 +1,8 @@
 # Cloud-Computing-Performance-Metrics
 Dashboard for analyzing cloud computing performance metrics such as CPU usage, memory utilization, power consumption, and virtual machine behavior using real-world data.
 
+The dataset used in this project is too large to be hosted on GitHub. You can download it from the link below.
+
 **Step-by-Step Setup Instructions (for Cloud Computing Performance Metrics Dashboard)-**
 
 **1\. Install Python**
